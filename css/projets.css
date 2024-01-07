@@ -101,6 +101,14 @@ footer{
     display: block;
 }
 
+.menucase a:hover {
+    background-color: #686666;
+}
+
+.déroulant:hover{
+    background-color: #686666;
+}
+
 .caseauteurs {
     text-align: center;
     font-size: 1em;

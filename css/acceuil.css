@@ -30,6 +30,13 @@ header{
     color: white;
     display: block;
 }
+.menucase a:hover {
+    background-color: #686666;
+}
+
+.déroulant:hover{
+    background-color: #686666;
+}
 
 .logo {
     size-adjust: inherit;
@@ -61,7 +68,6 @@ header{
 .déroulant:hover .drop-contenu {
     display: grid;
 }
-
 
 
 footer{

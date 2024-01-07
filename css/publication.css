@@ -163,6 +163,15 @@ footer{
     background-color: #D30869; 
     margin-right: 10px;
 }
+
+.menucase a:hover {
+    background-color: #686666;
+}
+
+.déroulant:hover{
+    background-color: #686666;
+}
+
 .blue-cube{
     width: 20px;
     height: 20px;

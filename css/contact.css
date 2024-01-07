@@ -144,6 +144,14 @@ footer{
     }
 }
 
+.menucase a:hover {
+    background-color: #686666;
+}
+
+.déroulant:hover{
+    background-color: #686666;
+}
+
 body {font-family:'SF Pro Display', sans-serif;
     padding: 0px;}
   
